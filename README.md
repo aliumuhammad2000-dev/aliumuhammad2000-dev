@@ -10,13 +10,13 @@ I'm an aspiring web developer focused on **Front-End Development** and enjoys tu
 
 ###  Skills
 
-* **Languages:** HTML, CSS, JavaScript (Improving daily)
+* **Languages:** HTML, CSS, JavaScript, React, Typescript, Next.js (Improving daily)
 * **Frameworks & Tools:** Tailwind CSS, Git, GitHub
 * **Other Skills:** Responsive Design, UI Development
   
 ## 🛠️ Tech Stack
 
-* HTML5, CSS3 JAVASCRIPT, REACT, NODE.JS, GIT. 
+* HTML5, CSS3 JAVASCRIPT, REACT, NEXT.js, TYPESCRIPT, NODE.JS, GIT. 
 
 ### 📂 Projects
 
@@ -25,18 +25,23 @@ Some of the projects I’ve worked on include:
 * 🛒 **E-commerce Website** – Built with HTML, Tailwind CSS, and JavaScript
 * 🧑‍💻 **Portfolio Website** – Showcasing my projects and skills
 * 📰 **Blog Template** – Clean and responsive blog layout
+* 🏃 **Thundey Tracker** - Clean and responsive web application
+* 📸 **Photobooth** - Photographer website clean and responsive
+* <\> **Thundey Git Explorer - 
 
 ### 📈 What I'm Currently Working On
 
-* Improving my **JavaScript skills**
+* Transitioning into backend**
+* AI video editing**
 * Building **more real-world web projects**
-* Learning **advanced front-end concepts**
+* Learning **advanced software development concepts**
 
 ### 🤝 Let's Connect
 
 * X (formerly known as Twitter): https://x.com/Thundeyhally
 * LinkedIn: https://www.linkedin.com/in/aliyu-mohammed2209/
 * Email: aliumuhammad2000@gmail.com
+* Portfolio: https://thundey-portfolio.vercel.app/
 
 ---
 
