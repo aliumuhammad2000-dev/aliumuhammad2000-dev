@@ -5,12 +5,12 @@
 I'm a passionate **Front-End Developer** who enjoys building clean, responsive, and user-friendly web applications. I love turning ideas into interactive digital experiences and continuously improving my skills in modern web development.
 
 ### 🚀 About Me
-I'm an aspiring web developer focused on **Front-End Development** and enjoys turning ideas into clean, responsive, and user-friendly web interfaces. I am Currently improving my skills in **JavaScript and modern frameworks**. I build projects using HTML, CSS, TAILWIND CSS and JAVASCRIPT, focusing on structure, usability, and smooth interactions. I learn best by building real projects, debugging issues, and continuously improving my code and design decisions. I'm passionate about growing as a developer, collaborating with others, and creating web experiences that are both functional and visually appealing.
+I build modern web experiences with React, Next.js, TypeScript, JavaScript, and Tailwind CSS, focusing on responsive interfaces, reusable components, API integration, and reliable user experiences. I build real projects, debugging issues, and continuously improving my code and design decisions. I'm passionate about growing as a developer, collaborating with others, and creating web experiences that are both functional and visually appealing.
 * 📍 Based in Nigeria
 
 ###  Skills
 
-* **Languages:** HTML, CSS, JavaScript, React, Typescript, Next.js (Improving daily)
+* **Languages:** HTML, CSS, JavaScript, React, Typescript, Next.js
 * **Frameworks & Tools:** Tailwind CSS, Git, GitHub
 * **Other Skills:** Responsive Design, UI Development
   
@@ -34,7 +34,6 @@ Some of the projects I’ve worked on include:
 * Transitioning into backend**
 * AI video editing**
 * Building **more real-world web projects**
-* Learning **advanced software development concepts**
 
 ### 🤝 Let's Connect
 
@@ -45,6 +44,6 @@ Some of the projects I’ve worked on include:
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *always building.*
 
 -->
